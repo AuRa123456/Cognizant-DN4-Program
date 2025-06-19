@@ -1,0 +1,3 @@
+Search type       |      Time Complexity      |        Use Cases
+Linear Search     |           O(n)            | Unsorted array, small datasets
+Binary Search     |         O(log n)          | Large and sorted datasets

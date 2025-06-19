@@ -1,0 +1,21 @@
+Q1. Explain Big O notation and how it helps in analyzing algorithms.
+(Ans) Big O notation is the upper bound of the time taken by an algorithm as its input keeps growing.
+
+Q2. Describe the best, average, and worst-case scenarios for search operations.
+(Ans) 
+Best-Case Scenario:
+- The target is found almost immediately.
+- Minimal resources are used—time, energy, money.
+- There are no false positives or distractions.
+- High confidence in results with strong verification.
+
+Average-Case Scenario:
+- The search takes a moderate amount of time and effort.
+- There might be some inefficiencies or minor errors.
+- Resources are adequately allocated but not optimized.
+- Results are eventually reliable but may require validation or iteration.
+
+Worst-Case Scenario:
+- The target is not found at all or is found too late.
+- The operation consumes excessive resources with low return.
+- High chance of false positives, ambiguity, or outright failures.
