@@ -1,0 +1,2 @@
+Q. Explain the concept of recursion and how it can simplify certain problems.
+(Ans) Recursion is a technique where a function calls itself to solve a smaller instance of a problem. It simplifies problems like tree traversal, factorials, Fibonacci numbers, etc.

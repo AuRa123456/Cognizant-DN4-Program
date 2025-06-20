@@ -1,0 +1,3 @@
+Time Complexity - T(n) = T(n - 1) + O(1) → O(n)
+
+Each recursive call performs one multiplication and one function call until it hits the base case.
