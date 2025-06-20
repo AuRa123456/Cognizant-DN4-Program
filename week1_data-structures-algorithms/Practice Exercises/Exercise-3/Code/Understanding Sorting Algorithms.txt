@@ -1,0 +1,26 @@
+1. Bubble Sort
+Think of this like bubbling up the biggest elements to the end:
+- How it works: Repeatedly steps through the list, compares adjacent elements, and swaps them if they’re in the wrong order.
+- Best case: Already sorted list → O(n)
+- Worst case: Reversed list → O(n²)
+- Intuition: Simple to understand, but not very efficient for large lists.
+
+2. Insertion Sort
+Kind of like sorting playing cards in your hands:
+- How it works: Builds the sorted list one element at a time by comparing the current element with those before it and inserting it into the correct position.
+- Best case: Nearly sorted → O(n)
+- Worst case: Reversed list → O(n²)
+- Intuition: Efficient for small or mostly sorted datasets.
+
+3. Quick Sort
+The daredevil of sorting—fast and elegant:
+- How it works: Picks a “pivot” element, partitions the array into two sub-arrays (less than and greater than pivot), and sorts them recursively.
+- Average case: O(n log n)
+- Worst case: O(n²) (if poor pivot choice)
+- Intuition: Very fast in practice, often outperforms other O(n log n) algorithms.
+
+4. Merge Sort
+The meticulous planner—divides and conquers:
+- How it works: Divides the array into halves, recursively sorts each half, then merges the sorted halves.
+- Best, average, and worst case: O(n log n)
+- Intuition: Very predictable and stable; ideal for large datasets or linked lists.

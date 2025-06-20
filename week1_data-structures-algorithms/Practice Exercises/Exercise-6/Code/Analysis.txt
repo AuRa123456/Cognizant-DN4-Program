@@ -1,0 +1,3 @@
+| Algorithm         |   Time Complexity   | Use Cases
+| Linear Search     |        O(n)         | Small or unsorted datasets
+| Binary Search     |      O(log n)       | Large and sorted datasets

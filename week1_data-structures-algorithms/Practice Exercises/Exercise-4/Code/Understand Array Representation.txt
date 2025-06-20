@@ -1,0 +1,9 @@
+Q. Explain how arrays are represented in memory and their advantages.
+(Ans)
+Array in Memory:
+- Arrays are contiguous blocks of memory where each element is of the same data type.
+- Elements are accessed via indexing, allowing O(1) access time.
+
+Advantages of Arrays:
+- Fast access using index: arr[i] → O(1)
+- Simple and memory-efficient for fixed-size datasets

@@ -1,0 +1,11 @@
+Q1. Explain linear search and binary search algorithms.
+(Ans) 
+Linear Search:
+- Traverses each element one by one until it finds a match.
+- Works on unsorted data.
+- Time complexity: O(n)
+
+Binary Search:
+- Works by dividing the sorted list into halves.
+- Requires sorted data.
+- Time complexity: O(log n)

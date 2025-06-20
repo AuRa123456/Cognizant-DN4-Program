@@ -1,0 +1,15 @@
+Operation    |   Time Complexity
+Add          |        O(1)
+Search       |        O(n)
+Traverse     |        O(n)
+Delete       |        O(n)
+
+Limitations of Arrays:
+- Fixed size – you must define max size in advance (MAX_EMPLOYEES).
+- Insertion and deletion at arbitrary positions are inefficient (require shifting).
+- No dynamic resizing or built-in search operations.
+
+Usage of Arrays:
+- When number of records is fixed or predictable
+- When you need fast indexed access and simple logic
+- When memory overhead should be minimal

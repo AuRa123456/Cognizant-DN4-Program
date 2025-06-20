@@ -1,0 +1,14 @@
+Bubble Sort:
+Time Complexity: O(n²) (always)
+Space: O(1)
+Good for small data only.
+
+Quick Sort:
+Time Complexity: Best/Average: O(n log n), Worst: O(n²)
+Space: O(log n) due to recursive calls
+Faster and more efficient for larger data sets.
+
+Quick Sort is preferred for the following reasons:
+- Faster for most practical datasets
+- Fewer swaps and comparisons than Bubble Sort
+- Easy to implement and modify
