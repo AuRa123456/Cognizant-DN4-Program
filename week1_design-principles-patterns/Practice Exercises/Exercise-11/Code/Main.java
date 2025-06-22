@@ -5,7 +5,7 @@ interface CustomerRepository {
 class CustomerRepositoryImpl implements CustomerRepository {
     @Override
     public String findCustomerById(String customerId) {
-        return "Customer [ID: " + customerId + ", Name: Alice Johnson]";
+        return "Customer [ID: " + customerId + ", Name: Alice Mohanty]";
     }
 }
 
