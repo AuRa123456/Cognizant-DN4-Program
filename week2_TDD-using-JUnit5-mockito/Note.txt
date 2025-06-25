@@ -1,0 +1,34 @@
+As i've been using VS Code for the tasks for it's simplicity of uploading tasks onto github, 
+there were contraints while using JUnit5 as VS Code isn't native to Java Environment, 
+which resulted in extra steps in the directory system
+
+Here is the directory structure to be expected - 
+
+week2_TDD-using-JUnit5-mockito/
+├── Mandatory Exercises/
+│   ├── src/
+│   │   ├── main/
+│   │   │   └── java/
+│   │   │       ├── Calculator.java
+│   │   │       └── exercise1.java
+│   │   └── test/
+│   │       └── java/
+│   │           ├── CalculatorTest.java
+│   │           ├── exercise1Test.java
+│   │           └── AssertionsTest.java
+│   ├── OuputText.txt
+│   ├── Output.png
+│   └── pom.xml
+│
+├── Practice Exercises/
+│   ├── src/
+│   │   ├── main/
+│   │   │   └── java/
+│   │   │       └── MathUtils.java
+│   │   └── test/
+│   │       └── java/
+│   │           └── MathUtilsTest.java
+│   ├── Output.png
+│   ├── OutputText.txt
+│   ├── pom.xml
+├── Note.txt

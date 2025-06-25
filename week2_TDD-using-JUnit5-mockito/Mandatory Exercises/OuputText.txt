@@ -1,0 +1,197 @@
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises> mvn test
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Program%20Files/Apache/Maven/apache-maven-3.9.10/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.example:JUnitDemo >------------------------
+[INFO] Building JUnitDemo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.0.2:resources (default-resources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\main\resources
+[INFO]
+[INFO] --- compiler:3.8.0:compile (default-compile) @ JUnitDemo ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- resources:3.0.2:testResources (default-testResources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\test\resources
+[INFO]
+[INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ JUnitDemo ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- surefire:3.0.0-M9:test (default-test) @ JUnitDemo ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running CalculatorTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 s - in CalculatorTest
+[INFO] 
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.754 s
+[INFO] Finished at: 2025-06-25T23:19:41+05:30
+[INFO] ------------------------------------------------------------------------
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises> 
+ *  History restored 
+
+PS C:\Users\praby\Codes\Cognizant-DN4-Program> cd week2_TDD-using-JUnit5-mockito
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito> cd "Mandatory Exercises"
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises> mvn test
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Program%20Files/Apache/Maven/apache-maven-3.9.10/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.example:JUnitDemo >------------------------
+[INFO] Building JUnitDemo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.0.2:resources (default-resources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\main\resources
+[INFO]
+[INFO] --- compiler:3.8.0:compile (default-compile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\classes
+[INFO] 
+[INFO] --- resources:3.0.2:testResources (default-testResources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\test\resources
+[INFO]
+[INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\test-classes
+[INFO] 
+[INFO] --- surefire:3.0.0-M9:test (default-test) @ JUnitDemo ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running exercise1Test
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.059 s - in exercise1Test
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.340 s
+[INFO] Finished at: 2025-06-25T23:24:41+05:30
+[INFO] ------------------------------------------------------------------------
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises> mvn test
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Program%20Files/Apache/Maven/apache-maven-3.9.10/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.example:JUnitDemo >------------------------
+[INFO] Building JUnitDemo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.0.2:resources (default-resources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\main\resources
+[INFO]
+[INFO] --- compiler:3.8.0:compile (default-compile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\classes
+[INFO] 
+[INFO] --- resources:3.0.2:testResources (default-testResources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\test\resources
+[INFO]
+[INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\test-classes
+[INFO] 
+[INFO] --- surefire:3.0.0-M9:test (default-test) @ JUnitDemo ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running AssertionsTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 s - in AssertionsTest
+[INFO] Running exercise1Test
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s - in exercise1Test
+[INFO] 
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.314 s
+[INFO] Finished at: 2025-06-25T23:27:49+05:30
+[INFO] ------------------------------------------------------------------------
+PS C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises> mvn test
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::staticFieldBase has been called by com.google.inject.internal.aop.HiddenClassDefiner (file:/C:/Program%20Files/Apache/Maven/apache-maven-3.9.10/lib/guice-5.1.0-classes.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.inject.internal.aop.HiddenClassDefiner
+WARNING: sun.misc.Unsafe::staticFieldBase will be removed in a future release
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.example:JUnitDemo >------------------------
+[INFO] Building JUnitDemo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.0.2:resources (default-resources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\main\resources
+[INFO]
+[INFO] --- compiler:3.8.0:compile (default-compile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\classes
+[INFO] 
+[INFO] --- resources:3.0.2:testResources (default-testResources) @ JUnitDemo ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\src\test\resources
+[INFO]
+[INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ JUnitDemo ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 3 source files to C:\Users\praby\Codes\Cognizant-DN4-Program\week2_TDD-using-JUnit5-mockito\Mandatory Exercises\target\test-classes
+[INFO] 
+[INFO] --- surefire:3.0.0-M9:test (default-test) @ JUnitDemo ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running AssertionsTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 s - in AssertionsTest
+[INFO] Running CalculatorTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 s - in CalculatorTest
+[INFO] Running exercise1Test
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s - in exercise1Test
+[INFO] 
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.387 s
+[INFO] Finished at: 2025-06-25T23:34:33+05:30
+[INFO] ------------------------------------------------------------------------
