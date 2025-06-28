@@ -1,0 +1,17 @@
+Here is the directory structure to be expected - 
+
+JUnit Advanced/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       ├── Calculator.java
+│   │       └── exercise1.java
+│   └── test/
+│       └── java/
+│           ├── CalculatorTest.java
+│           ├── exercise1Test.java
+│           └── AssertionsTest.java
+│   ├── OuputText.txt
+│   ├── Output.png
+│   ├── pom.xml
+│   ├── Note.txt

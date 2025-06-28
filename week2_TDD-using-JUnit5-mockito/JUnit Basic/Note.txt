@@ -4,7 +4,7 @@ which resulted in extra steps in the directory system
 
 Here is the directory structure to be expected - 
 
-week2_TDD-using-JUnit5-mockito/
+JUnit Basic/
 ├── Mandatory Exercises/
 │   ├── src/
 │   │   ├── main/
