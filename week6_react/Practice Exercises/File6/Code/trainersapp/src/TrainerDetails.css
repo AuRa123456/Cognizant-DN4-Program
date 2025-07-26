@@ -1,0 +1,19 @@
+.trainer-detail {
+  background: white;
+  padding: 25px;
+  margin: 30px auto;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  text-align: left;
+}
+
+.trainer-detail h2 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.trainer-detail p {
+  font-size: 16px;
+  margin: 10px 0;
+}
