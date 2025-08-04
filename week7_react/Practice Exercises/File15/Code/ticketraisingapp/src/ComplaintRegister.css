@@ -1,0 +1,63 @@
+.complaint-container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.complaint-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.complaint-container form > div {
+  margin-bottom: 15px;
+}
+
+.complaint-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.complaint-container input,
+.complaint-container textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.complaint-container button {
+  padding: 10px 20px;
+  background-color: #0a5cff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.complaint-container button:hover {
+  background-color: #063fbe;
+}
+
+.complaint-list {
+  margin-top: 30px;
+  padding: 15px;
+  border-top: 1px solid #aaa;
+}
+
+.complaint-list ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.complaint-list li {
+  background-color: #e7f0ff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-left: 4px solid #0a5cff;
+  border-radius: 5px;
+}

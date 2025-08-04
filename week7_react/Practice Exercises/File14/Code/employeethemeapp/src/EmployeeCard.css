@@ -1,0 +1,31 @@
+.card.light {
+  background-color: #f9f9f9;
+  color: #000;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card.dark {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #666;
+  padding: 10px;
+  margin: 10px;
+}
+
+.btn.light {
+  background-color: #ddd;
+  color: #000;
+  padding: 5px 10px;
+  border: none;
+  margin-top: 5px;
+}
+
+.btn.dark {
+  background-color: #555;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  margin-top: 5px;
+}
