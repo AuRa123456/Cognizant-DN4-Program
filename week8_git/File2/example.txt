@@ -1,0 +1,2 @@
+This is an example text file 
+the .log file won't be uploaded
